@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 dsm.fn;/sadknfdujfhv;sldhv
 new line for merging
+=======kd'd
+;jal'xzjczdsm.fn;/sadknfdujfhv;sldhv
+>>>>>>> feature-a
